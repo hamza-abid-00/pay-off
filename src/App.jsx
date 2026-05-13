@@ -1,5 +1,5 @@
-import PayoffApp from "./PayoffApp.jsx";
+import IterationsGallery from "./IterationsGallery.jsx";
 
 export default function App() {
-  return <PayoffApp />;
+  return <IterationsGallery />;
 }
